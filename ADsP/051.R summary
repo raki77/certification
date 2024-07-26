@@ -1,0 +1,12 @@
+R summary:
+	연속형 변수명: 
+		Sepal.length, Sepal.width, Peta.Length, Petal.width
+	Summary  함수는 연속형 데이터에 대해 최솟값, 1사 분위수, 중위수, 3사분위수, 최댓값, 평균값을 구할 수 있다.
+
+평균의 차이를 판단하기 위해서는
+	3개 이상의 그룹에 대한 평균 차이 검정 필요, (ANOVA 검정)
+
+범주형 변수 
+	League	Division	NewLeague
+	A:175	E:157	A:176
+	N:147	W:165	N:146

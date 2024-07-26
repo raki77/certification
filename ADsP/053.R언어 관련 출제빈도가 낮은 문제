@@ -1,0 +1,23 @@
+형변환 함수 :
+	1. As.vector()> 벡터로 변경하는 함수
+	2. As.integer() > 내림이 적용된다.
+	3. As.numberic() > 123
+	4. As.logical() > TRUE
+	5. As.date() > 문자열을 날짜 데이터로 변환
+	
+Install.packages("팩키지 명")
+Library("패키지 명")
+Library(패키지 명)
+
+Ldply은 입력이 list, 
+	출력이 data.frame인 2차원 데이터 셋을 입력받아
+	행/열 별로 함수를 적용하고, 데이터 프레임을 출력하는 함수이다.
+
+Plyr 패키지의 함수들:
+	반복되는 작업에 대해, apply() 와 multi-core() 이용하여
+	For loop (반복문)을 사용 안해도
+	매우 간단하게 처리 가능.
+	Apply() 기반하여, 데이터와 출력 변수를 동시에 배열로 치환하여
+	처리하는 패키지이다.
+	
+	Substr(sb, 1, 2)  :
