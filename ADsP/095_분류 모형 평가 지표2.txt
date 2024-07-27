@@ -1,6 +1,14 @@
+
+
 1. ROC 그래프 (Receiver Operating characteristic) 
 	1. X축은 FP rate(1-specificity)
 	2. Y축은 민감도
+
+
 2. 카파 상관계수
+
+
 3. 향상도 도표
+
+
 4. 향상도 차트와 이득 차트

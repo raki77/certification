@@ -5,9 +5,9 @@
 	4. As.logical() > TRUE
 	5. As.date() > 문자열을 날짜 데이터로 변환
 	
-Install.packages("팩키지 명")
-Library("패키지 명")
-Library(패키지 명)
+	Install.packages("팩키지 명")
+	Library("패키지 명")
+	Library(패키지 명)
 
 Ldply은 입력이 list, 
 	출력이 data.frame인 2차원 데이터 셋을 입력받아

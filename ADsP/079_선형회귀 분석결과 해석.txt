@@ -1,14 +1,21 @@
+
 	1. Swiss 데이터셋
 		a. Lm(Fertitliy~.,data=swiss)
 		b. Fertitlity를 종속변수로 사용
 		c. 나머지 모든 변수들을 독립변수로 사용하였다.
+	
+	
 	2. Orange  데이터셋
 		a. Lm(circumderence~age+Tree, data=Orange)
 		b. Age, Tree를 독립변수로 사용
+	
+	
 	3. College 데이터셋
 		a. Lm(Grad.Rate~. Data=College) 
 		b. Grad.Rate 를 종속변수로 사용
 		c. 다른 모든 변수를 독립변수로 사용
+	
+	
 	4. Wage 데이터셋
 		a. Wage 데이터셋에서 'wage' 'age' 'jobclass' 라는 3개 변수를 
         가져와 summary 출력한다.
