@@ -1,0 +1,12 @@
+1. 단일 표본 t-검정
+    a. 귀무가설 : 임금의 평균이 100이다.
+    b. 대립가설 : 임금의 평균은 100과 같지 않다.
+    c. df=2999, n=df+1, 자유도는 2999, 데이터의 수 3000개
+    d. 유의수준 : 5%
+
+2. 대응 표본 t-검정 (Paired t-test)
+    a. paired=TRUE: Paired t-test
+    
+3. 독립 표본 t-검정 (Two Sample t-test)
+    a. var.equal = TRUE
+    b. df = 18
