@@ -3,6 +3,7 @@
 		b. 비모수적 추론 종류 :
 			i. 명목척도 : Run test, 카이제곱 검정
 			ii. 서열척도 : Kolmogorov-Smirnov Test, Sign Test, Mann-Whitney U test, Kruskal-Wallish Test
+			
 	2. 비교대상 집단 수에 따른 모수/비모수 추론 방법
 	3. 카이제곱 검정:
 		a. 카이제곱 검정
