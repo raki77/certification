@@ -1,0 +1,19 @@
+
+
+정형 데이터 :
+    ERP Transaction Data, 
+    Demand Forecast, 
+    RFID, 
+    Barcode System
+
+
+반정형 데이터 :
+    Competitor Pricing, 
+    Loyalty, 
+    Sensor
+
+
+비정형 데이터 :
+    Email, 
+    Internet of Things Sensing, 
+    SNS Media
